@@ -1,5 +1,5 @@
 {
-  "name": "mvc-tech-blog",
+  "name": "tech-blog-mvc",
   "version": "1.0.0",
   "description": "Tech-Blog-MVC",
   "main": "server.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pat31477/mvc-tech-blog.git"
+    "url": "git+https://github.com/pat31477/Tech-Blog-MVC.git"
   },
   "author": "Patrick Walker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pat31477/mvc-tech-blog/issues"
+    "url": "https://github.com/pat31477/Tech-Blog-MVC/issues"
   },
-  "homepage": "https://github.com/pat31477/mvc-tech-blog#readme",
+  "homepage": "https://github.com/pat31477/Tech-Blog-MVC#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bulma": "^0.9.0",
