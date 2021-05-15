@@ -20,7 +20,7 @@ const postData = [
     {
         title: "Witty Comment!",
         post_content: "Something goes in here as well",
-        user_id: 5
+        user_id: 2
     },
     {
         title: "Test Test Test!",

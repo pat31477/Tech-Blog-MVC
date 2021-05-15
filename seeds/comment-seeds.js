@@ -32,7 +32,7 @@ const commentData = [
         comment_text: "what the what!"
     },
     {
-        user_id: 5,
+        user_id: 2,
         post_id: 3,
         comment_text: "You're a tool"
     },
