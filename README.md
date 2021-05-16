@@ -55,9 +55,13 @@
 
   ![Screen Shot3](./images/Signup_Screen.png?raw=true "Screen Shot3")
 
-  ![Screen Shot3](./images/Create_Post_Screen.png?raw=true "Screen Shot3")
+  ![Screen Shot4](./images/Create_Post_Screen.png?raw=true "Screen Shot4")
 
-  ![Screen Shot3](./images/Add_Comment_Screen.png?raw=true "Screen Shot3")
+  ![Screen Shot5](./images/Add_Comment_Screen.png?raw=true "Screen Shot5")
+
+  ![Screen Shot6](./images/Edit_Post.png?raw=true "Screen Shot6")
+
+  ![Screen Shot7](./images/Delete_Post.png?raw=true "Screen Shot7")
 
   
    
